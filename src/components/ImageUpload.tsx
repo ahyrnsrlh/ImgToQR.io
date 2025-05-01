@@ -271,7 +271,7 @@ export default function ImageUpload({ onImageSelect }: ImageUploadProps) {
               initial={{ opacity: 0, scale: 0.9 }}
               animate={{ opacity: 1, scale: 1 }}
               exit={{ opacity: 0, scale: 0.9 }}
-              className="w-64 h-64 relative neobrutalism-pink"
+              className="w-64 h-64 relative neobrutalism-blue"
             >
               <Image
                 src={preview}
