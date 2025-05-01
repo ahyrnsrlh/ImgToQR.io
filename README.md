@@ -1,4 +1,4 @@
-# QR Code Generator
+# ImgToQR.io
 
 Aplikasi web untuk menghasilkan QR code dari gambar dengan desain modern neobrutalism.
 
