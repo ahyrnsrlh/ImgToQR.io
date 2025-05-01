@@ -1,4 +1,4 @@
-# QR Code Generator
+# ImgToQR.io
 
 > A modern web application for generating QR codes from images, featuring a striking neobrutalism design, built with Next.js. Upload, compress, and transform your images into QR codes with style! 🎨✨
 
@@ -27,8 +27,8 @@ Aplikasi web untuk menghasilkan QR code dari gambar dengan desain modern neobrut
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/yourusername/QR-Generator.git
-cd QR-Generator
+git clone https://github.com/ahyrnsrlh/ImgToQR.io.git
+cd ImgToQR.io
 ```
 
 2. Install dependensi:
