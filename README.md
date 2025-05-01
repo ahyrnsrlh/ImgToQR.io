@@ -25,8 +25,8 @@ Aplikasi web untuk menghasilkan QR code dari gambar dengan desain modern neobrut
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/yourusername/QR-Generator.git
-cd QR-Generator
+git clone https://github.com/ahyrnsrlh/ImgToQR.io.git
+cd ImgToQR.io
 ```
 
 2. Install dependensi:
