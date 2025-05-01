@@ -2,8 +2,7 @@
 
 > A modern web application for generating QR codes from images, featuring a striking neobrutalism design, built with Next.js. Upload, compress, and transform your images into QR codes with style! 🎨✨
 
-Aplikasi web untuk menghasilkan QR code dari gambar dengan desain modern neobrutalism.
-
+ImgToQR.io adalah Aplikasi web modern untuk membuat kode QR dari gambar, dengan desain neobrutalism dan dibangun menggunakan Next.js. Unggah, kompres, dan ubah gambarmu menjadi kode QR.
 ## 🚀 Fitur
 
 - Upload gambar (JPG/PNG)
