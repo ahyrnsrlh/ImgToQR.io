@@ -19,7 +19,7 @@ export function Footer() {
             </p>
           </div>
           <Link
-            href="https://github.com/yourusername/qr-generator"
+            href="https://github.com/ahyrnsrlh/ImgToQR.io"
             target="_blank"
             rel="noopener noreferrer"
             className="neobrutalism bg-[#8E7DBE] text-white px-3 py-1.5 flex items-center gap-1.5 transform transition-transform hover:translate-x-1 hover:translate-y-1 hover:shadow-[2px_2px_0px_0px_rgba(0,0,0,1)]"
