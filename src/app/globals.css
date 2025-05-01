@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.grid-background {
+  background-size: 40px 40px;
+  background-image: linear-gradient(to right, #e5e7eb 1px, transparent 1px),
+    linear-gradient(to bottom, #e5e7eb 1px, transparent 1px);
+  background-color: #fffaf0;
+  opacity: 0.3;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+}
+
+@layer base {
+  body {
+    @apply bg-[#FFFAF0];
+  }
+}
+
+@layer utilities {
+  .neobrutalism {
+    @apply border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)];
+  }
+
+  .neobrutalism-pink {
+    @apply border-4 border-black bg-[#FF90E8] shadow-[4px_4px_0px_0px_rgba(0,0,0,1)];
+  }
+
+  .neobrutalism-yellow {
+    @apply border-4 border-black bg-[#2DD1A3] shadow-[4px_4px_0px_0px_rgba(0,0,0,1)];
+  }
+
+  .neobrutalism-blue {
+    @apply border-4 border-black bg-[#8E7DBE] shadow-[4px_4px_0px_0px_rgba(0,0,0,1)];
+  }
+}
